@@ -1,5 +1,7 @@
 {
   "name": "GOMO",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

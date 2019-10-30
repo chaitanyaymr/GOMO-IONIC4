@@ -1,0 +1,42 @@
+{
+  
+  "project_info": {
+    "project_number": "531392903593",
+    "firebase_url": "https://gomo-ionic4.firebaseio.com",
+    "project_id": "gomo-ionic4",
+    "storage_bucket": "gomo-ionic4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531392903593:android:e56d31bc2520fbf516acb8",
+        "android_client_info": {
+          "package_name": "com.raviy.myGomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531392903593-2apa7eu76jjauee1ahlvs7fkupg6bv03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD523zO1Gk1obLcOvs08KYf1jokawiZcXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531392903593-2apa7eu76jjauee1ahlvs7fkupg6bv03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

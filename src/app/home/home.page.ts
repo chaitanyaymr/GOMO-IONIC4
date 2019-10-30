@@ -1,3 +1,4 @@
+import { GomodbService } from './../Providers/gomodb.service';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,6 +8,10 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  constructor(private gomodb:GomodbService) {
+    this.gomodb.getAllUsers().then(result=>{
+      console.log("userdata",result)
+    })
+  }
 
 }
